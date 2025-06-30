@@ -1,11 +1,10 @@
-<h1 align="center">Hi there, I'm Mystix Sinner 👋</h1>
+<h1 align="center">Hi there, I'm Digvijay Singh 👋</h1>
 <h3 align="center">Backend Developer | Java Enthusiast | AI Explorer</h3>
 
 ---
 
 ### 🧑‍💻 About Me
 - 🎓 Final year B.Tech student
-- 💼 Currently building: **Hospital Management System** with Spring Boot + JSP
 - 🤖 Interested in: Backend Dev | AI Projects | Rust & Low-Level Systems
 - 🌱 Learning: Spring Security, Hibernate, and Rust
 - 🛠️ I love building: Scalable Java apps, AI-powered tools, and clean REST APIs
