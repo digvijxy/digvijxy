@@ -32,30 +32,28 @@
 #### 🧠 Personalized Learning via Gen AI
 > AI-powered LMS that creates quizzes, notes, and Q&A from user-uploaded PDFs.
 
-#### 📊 Recruitment Management System
-> Multi-language (i18n) app with candidate registration, admin dashboard, and role-based login.
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mystixsinner&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystixsinner&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=digvijxy&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digvijxy&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mystixsinner&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=digvijxyr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
 
 ### 📫 How to reach me
-- Email: `your_email@example.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: `digvijaysingh14889@gmail.com`
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/digvijxy)
 
 ---
 
