@@ -53,7 +53,7 @@
 
 ### 📫 How to reach me
 - Email: `digvijaysingh14889@gmail.com`
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/digvijxy)
+- LinkedIn: [linkedin.com/in/digvijxy](https://linkedin.com/in/digvijxy)
 
 ---
 
