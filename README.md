@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Digvijay Singh 👋</h1>
+<!--<h1 align="center">Hi there, I'm Digvijay Singh 👋</h1>
 <h3 align="center">Backend Developer | Java Enthusiast | AI Explorer</h3>
 
 ---
@@ -57,7 +57,8 @@
 
 ---
 
-⭐ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+⭐ _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House 
+-->
 
 
 <!--
